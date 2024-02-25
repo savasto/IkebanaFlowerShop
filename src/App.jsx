@@ -4,9 +4,9 @@ import Home from "./pages/Home";
 import Error from "./pages/Error";
 import About from "./pages/About";
 import Plants from "./pages/Plants";
-import Flowers from "./pages/Flowers";
+import Flowers from "./pages/Flowers/Flowers";
 import Orders from "./pages/Orders";
-import Bouquets from "./pages/Bouquets";
+import Dried  from "./pages/Dried";
 
 
 export default function App() {
@@ -18,7 +18,7 @@ export default function App() {
           <Route path="orders" element={<Orders />} />
           <Route path="plants" element={<Plants />} />
           <Route path="flowers" element={<Flowers/>} />
-          <Route path="bouquets" element={<Bouquets />} />
+          <Route path="dried" element={<Dried/>} />
           <Route path="about" element={<About />} />
           <Route path="*" element={<Error />} />
         </Route>

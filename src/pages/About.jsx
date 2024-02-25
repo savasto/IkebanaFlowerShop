@@ -14,7 +14,7 @@ export default function About (){
             <h1 class="w3-center">About </h1>
             
             <p class="w3-large">
-              We offer {" "}
+              Ikebana Flower Shop. We offer {" "}
               <span class="w3-tag w3-light-grey">beautiful</span> flowers.
             </p>
             <p class="w3-large w3-text-grey w3-hide-medium">

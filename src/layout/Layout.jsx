@@ -13,9 +13,9 @@ export default function Layout () {
           
         
         <Link class="w3-bar-item w3-button" to="/">Home</Link> {"    "}
-        <Link class="w3-bar-item w3-button" to="/orders">Orders</Link>{"    "}
+        <Link class="w3-bar-item w3-button w3-right" to="/orders">Orders</Link>{"    "}
         <Link class="w3-bar-item w3-button" to="/flowers">Flowers</Link> {"    "}
-        <Link class="w3-bar-item w3-button" to="/bouquets">Bouquets</Link>{"    "}
+        <Link class="w3-bar-item w3-button" to="/dried">Dried flowers</Link>{"    "}
         <Link class="w3-bar-item w3-button" to="/plants">Plants</Link> {"    "}
         <Link class="w3-bar-item w3-button" to="/about">About</Link>
         </div>
