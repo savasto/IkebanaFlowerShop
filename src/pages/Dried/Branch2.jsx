@@ -1,32 +1,33 @@
 import "w3-css/w3.css";
-import redrose from './redrose.png'
-console.log(redrose);
+import branch2 from './branch2.png'
+console.log(branch2);
 
 
-export default function Rose() {
+export default function Branch2() {
   return (
     <>
       <div class="w3-container">
+        <h2>Dried branch</h2>
 
-        <div class="w3-panel w3-card w3-2018-almost-mauve">
+        <div class="w3-panel w3-card w3-sand">
 
         <div class="w3-container">
        
         <img 
         class="w3-image"
-        src={redrose} alt="Red rose"
+        src={branch2} alt="Dried branch"
         width="100%"
         />
   </div>
          
-            <h3>Rose</h3>
+            <h3>Dried branch</h3>
 
             <ul>
-              <li>Name: rose</li>
-              <li>Color: red</li>
+              <li>Name: branch</li>
+              <li>Color: brown</li>
               <li>Origin: Belgium</li>
 
-              <h2>Price: 8€</h2>
+              <h2>Price: 3€</h2>
             </ul>
       
               <button class="w3-button w3-pale-green">Add to cart</button>

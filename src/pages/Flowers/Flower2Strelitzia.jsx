@@ -7,9 +7,9 @@ export default function Strelitzia() {
   return (
     <>
       <div class="w3-container">
-        <h2>Flower</h2>
+        
 
-        <div class="w3-panel w3-card w3-sand">
+        <div class="w3-panel w3-card w3-2018-almost-mauve">
 
         <div class="w3-container">
        

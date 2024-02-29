@@ -6,7 +6,7 @@ import About from "./pages/About";
 import Plants from "./pages/Plants";
 import Flowers from "./pages/Flowers/Flowers";
 import Orders from "./pages/Orders";
-import Dried  from "./pages/Dried";
+import Dried  from "./pages/Dried/Dried";
 
 
 export default function App() {

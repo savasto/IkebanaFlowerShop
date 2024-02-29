@@ -7,15 +7,15 @@ export default function Flowers (){
 
     return (
         <>
-        <div class="w3-container w3-light-grey">
-          <h1>Flowers of a season</h1>
-          <div class="w3-container w3-cell">
+        <div className="w3-container  w3-2018-almost-mauve">
+          <h1>Fresh flowers</h1>
+          <div className="w3-container w3-cell ">
             <Flower />
           </div>
-          <div class="w3-container w3-cell">
+          <div className="w3-container w3-cell">
             <Flower1Lirio />
           </div>
-          <div class="w3-container w3-cell">
+          <div className="w3-container w3-cell">
             <Flower2Strelitzia />
           </div>
         </div>
