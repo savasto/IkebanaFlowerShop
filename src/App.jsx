@@ -3,7 +3,7 @@ import Layout from "./layout/Layout";
 import Home from "./pages/Home";
 import Error from "./pages/Error";
 import About from "./pages/About";
-import Plants from "./pages/Plants";
+import Plants from "./pages/Plants/Plants";
 import Flowers from "./pages/Flowers/Flowers";
 import Orders from "./pages/Orders";
 import Dried  from "./pages/Dried/Dried";
