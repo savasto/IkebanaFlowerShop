@@ -5,7 +5,7 @@ import Error from "./pages/Error";
 import About from "./pages/About";
 import Plants from "./pages/Plants/Plants";
 import Flowers from "./pages/Flowers/Flowers";
-import Orders from "./pages/Orders";
+import Orders from "./pages/Orders/Orders";
 import Dried  from "./pages/Dried/Dried";
 
 
