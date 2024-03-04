@@ -7,6 +7,7 @@ import Plants from "./pages/Plants/Plants";
 import Flowers from "./pages/Flowers/Flowers";
 import Orders from "./pages/Orders/Orders";
 import Dried  from "./pages/Dried/Dried";
+import FakeData from "./pages/FakeData/FakeData";
 
 
 export default function App() {
@@ -20,8 +21,9 @@ export default function App() {
           <Route path="flowers" element={<Flowers/>} />
           <Route path="dried" element={<Dried/>} />
           <Route path="about" element={<About />} />
-          <Route path="*" element={<Error />} />
-        </Route>
+          <Route path="*" element={<Error />} />     
+          <Route path="fakeData" element={<FakeData />} />
+          </Route>
       </Routes>
     </BrowserRouter>
     
